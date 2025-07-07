@@ -1,0 +1,38 @@
+[
+  {
+    "domaine": "Instructions: Next to each statement place a x in the column that most feels like you. Only select 1 answer per row. Caregivers and youth are encouraged to fill out this sheet seperately and compare results.",
+    "item": "Daily Living Skills"
+  },
+  {
+    "domaine": "SELF CARE SKILLS",
+    "item": "Self Care Skills"
+  },
+  {
+    "domaine": "RELATIONSHIP AND COMMUNICATION",
+    "item": "Relationship and Communication"
+  },
+  {
+    "domaine": "HOUSING, MONEY MANAGEMENT & TRANSPORTATION",
+    "item": "Housing, Money Management & Transportation"
+  },
+  {
+    "domaine": "WORK AND STUDY LIFE",
+    "item": "Work and Study Life"
+  },
+  {
+    "domaine": "CAREER AND EDUCATION PLANNING",
+    "item": "Career and Education Planning"
+  },
+  {
+    "domaine": "CIVIC ENGAGEMENT",
+    "item": "Civic Engagement"
+  },
+  {
+    "domaine": "NAVIGATING THE CHILD WELFARE SYSTEM",
+    "item": "Navigating the Child Welfare System"
+  },
+  {
+    "domaine": "LOOKING FORWARD",
+    "item": "Looking Forward"
+  }
+]
